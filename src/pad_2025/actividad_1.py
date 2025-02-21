@@ -79,9 +79,9 @@ nombre_archivo = "info copy.txt"
 datos_txt_dos = inges.leer_varios_txt(nombre_archivo)
 print(datos_txt_dos)
 
-inges.escribir_txt(nombre="archivo_json",datos=datos_json)
-inges.escribir_txt(nombre="archivo_txt",datos=datos_txt)
-inges.escribir_txt(nombre="archivo_txt_copy",datos=datos_txt_dos)
+#inges.escribir_txt(nombre="archivo_json",datos=datos_json)
+#inges.escribir_txt(nombre="archivo_txt",datos=datos_txt)
+#inges.escribir_txt(nombre="archivo_txt_copy",datos=datos_txt_dos)
     
     
     
